@@ -1,0 +1,8 @@
+opencv-python
+ultralytics
+tkinter
+Pillow
+matplotlib
+gtts
+playsound
+numpy
